@@ -15,7 +15,7 @@ The objective of this project is to create a back-end for an e-commerce site by 
 Used Node, MYSQL, MYSQL2 npm, sequilize npm, dotenv npm, and Insonia application.
 
 ## Usage
-[Video Link](URL PLACEHOLDER)
+[Video Link](https://drive.google.com/file/d/1J9bU2vku3KQYERYHwmfFoxxbm_nxk4p8/view)
 
 ## Questions
 Have any Questions? Contact me: https://github.com/carolynngo11
